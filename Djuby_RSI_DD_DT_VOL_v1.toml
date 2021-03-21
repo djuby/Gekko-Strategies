@@ -1,0 +1,9 @@
+interval = 14
+
+[thresholds]
+low = 30
+high = 70
+persistence = 1
+
+[tradesandvolume]
+volume = 0
